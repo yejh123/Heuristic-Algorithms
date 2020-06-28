@@ -1,0 +1,5 @@
+data.cav 为实验数据
+log.txt 为实验输出日志
+3D_function.png 为待求解函数的3D图
+heatmap.png 为实验数据热力图
+ga.py 为源代码
